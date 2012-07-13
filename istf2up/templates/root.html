@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>{{ isup|yesno|title }}! The TF2 root servers are
+{% if not isup %}not {% endif %} working | istf2up.com</title>
+
+<style type="text/css">
+#mainstatus {
+text-align:center;
+}
+#statusdisplaywrapper {
+text-align:center;
+}
+</style>
+</head>
+<body>
+<h1 id="mainstatus">{{ isup|yesno|title }}! 
+{% if isup %}The TF2 root servers are all working {% else %} Something is wrong with {% endif %} working</h1>
+<div id="statusdisplaywrapper">
+<table id="statusdisplay">
+{% for s in serverstatuses %}
+<tr>
+  <td><span class="status,{{ s.up|updown }}">{{ s.up|updown }}</span></td>
+  <td>{{ s.details }}</td>
+</tr>
+{% endfor %}
+</table>
+</div>
+</body>
+</html>

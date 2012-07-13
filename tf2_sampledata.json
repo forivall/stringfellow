@@ -1,0 +1,3957 @@
+{
+	"result": {
+		"status": 1,
+		"num_backpack_slots": 400,
+		"items": [
+			{
+				"id": 886627,
+				"original_id": 886627,
+				"defindex": 125,
+				"level": 1,
+				"quality": 6,
+				"inventory": 2147483881,
+				"quantity": 1,
+				"origin": 0,
+				"flag_cannot_trade": true
+			},
+			{
+				"id": 6545876,
+				"original_id": 6545876,
+				"defindex": 40,
+				"level": 10,
+				"quality": 3,
+				"inventory": 2147483720,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 6550457,
+				"original_id": 6550457,
+				"defindex": 38,
+				"level": 10,
+				"quality": 3,
+				"inventory": 2147483724,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 7185404,
+				"original_id": 7185404,
+				"defindex": 57,
+				"level": 10,
+				"quality": 3,
+				"inventory": 2147483791,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 8820315,
+				"original_id": 8820315,
+				"defindex": 59,
+				"level": 5,
+				"quality": 3,
+				"inventory": 2147483744,
+				"quantity": 1,
+				"origin": 0,
+				"equipped": [
+					{
+						"class": 8,
+						"slot": 6
+					}
+				]
+				
+			},
+			{
+				"id": 9708338,
+				"original_id": 9708338,
+				"defindex": 44,
+				"level": 15,
+				"quality": 3,
+				"inventory": 2147483712,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 31031698,
+				"original_id": 31031698,
+				"defindex": 61,
+				"level": 5,
+				"quality": 3,
+				"inventory": 2147483739,
+				"quantity": 1,
+				"origin": 0,
+				"equipped": [
+					{
+						"class": 8,
+						"slot": 1
+					}
+				]
+				
+			},
+			{
+				"id": 32651572,
+				"original_id": 32651572,
+				"defindex": 104,
+				"level": 3,
+				"quality": 3,
+				"inventory": 2147483861,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 33944107,
+				"original_id": 33944107,
+				"defindex": 45,
+				"level": 10,
+				"quality": 3,
+				"inventory": 2147483700,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 39927520,
+				"original_id": 39927520,
+				"defindex": 58,
+				"level": 5,
+				"quality": 3,
+				"inventory": 2147483798,
+				"quantity": 1,
+				"origin": 0,
+				"equipped": [
+					{
+						"class": 2,
+						"slot": 1
+					}
+				]
+				
+			},
+			{
+				"id": 48893000,
+				"original_id": 48893000,
+				"defindex": 110,
+				"level": 15,
+				"quality": 3,
+				"inventory": 2147483860,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 48894502,
+				"original_id": 48894502,
+				"defindex": 36,
+				"level": 5,
+				"quality": 3,
+				"inventory": 2147484035,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 48899909,
+				"original_id": 48899909,
+				"defindex": 116,
+				"level": 10,
+				"quality": 6,
+				"inventory": 2147483887,
+				"quantity": 1,
+				"origin": 0,
+				"style": 2
+			},
+			{
+				"id": 49426335,
+				"original_id": 49426335,
+				"defindex": 60,
+				"level": 5,
+				"quality": 3,
+				"inventory": 2147483743,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 51639602,
+				"original_id": 51639602,
+				"defindex": 5007,
+				"level": 1,
+				"quality": 6,
+				"inventory": 2147483905,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 52533603,
+				"original_id": 52533603,
+				"defindex": 129,
+				"level": 5,
+				"quality": 3,
+				"inventory": 2147483811,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 56048622,
+				"original_id": 56048622,
+				"defindex": 35,
+				"level": 8,
+				"quality": 3,
+				"inventory": 2147483752,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 56225301,
+				"original_id": 56225301,
+				"defindex": 36,
+				"level": 5,
+				"quality": 3,
+				"inventory": 2147483749,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 56227870,
+				"original_id": 56227870,
+				"defindex": 46,
+				"level": 5,
+				"quality": 3,
+				"inventory": 2147483705,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 56404493,
+				"original_id": 56404493,
+				"defindex": 37,
+				"level": 10,
+				"quality": 3,
+				"inventory": 2147483754,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 79513326,
+				"original_id": 79513326,
+				"defindex": 165,
+				"level": 10,
+				"quality": 6,
+				"inventory": 2147483691,
+				"quantity": 1,
+				"origin": 0,
+				"flag_cannot_trade": true,
+				"attributes": [
+					{
+						"defindex": 143,
+						"value": 1214006400,
+						"float_value": 225554.000000
+					}
+				]
+				
+			},
+			{
+				"id": 79518232,
+				"original_id": 79518232,
+				"defindex": 128,
+				"level": 10,
+				"quality": 3,
+				"inventory": 2147483818,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 116605397,
+				"original_id": 116605397,
+				"defindex": 141,
+				"level": 5,
+				"quality": 3,
+				"inventory": 2147483759,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 123488113,
+				"original_id": 123488113,
+				"defindex": 154,
+				"level": 5,
+				"quality": 3,
+				"inventory": 2147483828,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 127853157,
+				"original_id": 127853157,
+				"defindex": 140,
+				"level": 5,
+				"quality": 3,
+				"inventory": 2147483762,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 129225845,
+				"original_id": 129225845,
+				"defindex": 41,
+				"level": 5,
+				"quality": 3,
+				"inventory": 2147483771,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 129240539,
+				"original_id": 129240539,
+				"defindex": 155,
+				"level": 20,
+				"quality": 3,
+				"inventory": 2147483764,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 129265636,
+				"original_id": 129265636,
+				"defindex": 130,
+				"level": 5,
+				"quality": 3,
+				"inventory": 2147483822,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 131608231,
+				"original_id": 131608231,
+				"defindex": 131,
+				"level": 10,
+				"quality": 3,
+				"inventory": 2147483819,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 132389232,
+				"original_id": 132389232,
+				"defindex": 42,
+				"level": 1,
+				"quality": 3,
+				"inventory": 2147483778,
+				"quantity": 1,
+				"origin": 0,
+				"equipped": [
+					{
+						"class": 6,
+						"slot": 1
+					}
+				]
+				
+			},
+			{
+				"id": 132592133,
+				"original_id": 132592133,
+				"defindex": 43,
+				"level": 7,
+				"quality": 3,
+				"inventory": 2147483781,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 138348389,
+				"original_id": 138348389,
+				"defindex": 133,
+				"level": 10,
+				"quality": 3,
+				"inventory": 2147483813,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 138367346,
+				"original_id": 138367346,
+				"defindex": 48,
+				"level": 45,
+				"quality": 3,
+				"inventory": 2147483859,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 138589973,
+				"original_id": 138589973,
+				"defindex": 43,
+				"level": 7,
+				"quality": 3,
+				"inventory": 2147484019,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 138883915,
+				"original_id": 138883915,
+				"defindex": 39,
+				"level": 10,
+				"quality": 3,
+				"inventory": 2147483730,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 138885823,
+				"original_id": 138885823,
+				"defindex": 127,
+				"level": 1,
+				"quality": 3,
+				"inventory": 2147483804,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 152630173,
+				"original_id": 152630173,
+				"defindex": 189,
+				"level": 20,
+				"quality": 6,
+				"inventory": 2147483880,
+				"quantity": 1,
+				"origin": 1,
+				"flag_cannot_trade": true
+			},
+			{
+				"id": 154976254,
+				"original_id": 154976254,
+				"defindex": 264,
+				"level": 5,
+				"quality": 6,
+				"inventory": 2147483840,
+				"quantity": 1,
+				"origin": 2
+			},
+			{
+				"id": 154976255,
+				"original_id": 154976255,
+				"defindex": 263,
+				"level": 10,
+				"quality": 6,
+				"inventory": 2147483856,
+				"quantity": 1,
+				"origin": 2
+			},
+			{
+				"id": 159552090,
+				"original_id": 159552090,
+				"defindex": 171,
+				"level": 5,
+				"quality": 6,
+				"inventory": 2147483795,
+				"quantity": 1,
+				"origin": 4
+			},
+			{
+				"id": 165662376,
+				"original_id": 165662376,
+				"defindex": 278,
+				"level": 31,
+				"quality": 6,
+				"inventory": 2147483912,
+				"quantity": 1,
+				"origin": 1,
+				"flag_cannot_trade": true
+			},
+			{
+				"id": 168902526,
+				"original_id": 168902526,
+				"defindex": 115,
+				"level": 10,
+				"quality": 6,
+				"inventory": 2147483909,
+				"quantity": 1,
+				"origin": 1,
+				"flag_cannot_trade": true
+			},
+			{
+				"id": 194312828,
+				"original_id": 194312828,
+				"defindex": 185,
+				"level": 53,
+				"quality": 6,
+				"inventory": 2147483850,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 194319868,
+				"original_id": 194319868,
+				"defindex": 142,
+				"level": 15,
+				"quality": 3,
+				"inventory": 2147483766,
+				"quantity": 1,
+				"origin": 0,
+				"custom_name": "The Results of Spacestar Ordering"
+			},
+			{
+				"id": 198446519,
+				"original_id": 198446519,
+				"defindex": 332,
+				"level": 30,
+				"quality": 6,
+				"inventory": 2147483883,
+				"quantity": 1,
+				"origin": 10,
+				"flag_cannot_trade": true
+			},
+			{
+				"id": 204881844,
+				"original_id": 204881844,
+				"defindex": 311,
+				"level": 1,
+				"quality": 3,
+				"inventory": 2147483777,
+				"quantity": 1,
+				"origin": 4
+			},
+			{
+				"id": 208781259,
+				"original_id": 208781259,
+				"defindex": 325,
+				"level": 25,
+				"quality": 6,
+				"inventory": 2147483714,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 208960012,
+				"original_id": 208960012,
+				"defindex": 241,
+				"level": 5,
+				"quality": 6,
+				"inventory": 2147483688,
+				"quantity": 4,
+				"origin": 0
+			},
+			{
+				"id": 209039115,
+				"original_id": 209039115,
+				"defindex": 342,
+				"level": 61,
+				"quality": 6,
+				"inventory": 2147483851,
+				"quantity": 1,
+				"origin": 8
+			},
+			{
+				"id": 216335912,
+				"original_id": 216335912,
+				"defindex": 56,
+				"level": 10,
+				"quality": 3,
+				"inventory": 2147483794,
+				"quantity": 1,
+				"origin": 3
+			},
+			{
+				"id": 216337723,
+				"original_id": 216337723,
+				"defindex": 305,
+				"level": 15,
+				"quality": 3,
+				"inventory": 2147483750,
+				"quantity": 1,
+				"origin": 4,
+				"flag_cannot_trade": true
+			},
+			{
+				"id": 228075323,
+				"original_id": 228075323,
+				"defindex": 312,
+				"level": 5,
+				"quality": 6,
+				"inventory": 2147483772,
+				"quantity": 1,
+				"origin": 3
+			},
+			{
+				"id": 240700272,
+				"original_id": 240700272,
+				"defindex": 345,
+				"level": 10,
+				"quality": 6,
+				"inventory": 2147483858,
+				"quantity": 1,
+				"origin": 13
+			},
+			{
+				"id": 240700273,
+				"original_id": 240700273,
+				"defindex": 346,
+				"level": 10,
+				"quality": 6,
+				"inventory": 2147483857,
+				"quantity": 1,
+				"origin": 13
+			},
+			{
+				"id": 240700274,
+				"original_id": 240700274,
+				"defindex": 347,
+				"level": 10,
+				"quality": 6,
+				"inventory": 2147483708,
+				"quantity": 1,
+				"origin": 13,
+				"equipped": [
+					{
+						"class": 1,
+						"slot": 10
+					}
+				]
+				
+			},
+			{
+				"id": 251547465,
+				"original_id": 251547465,
+				"defindex": 5500,
+				"level": 1,
+				"quality": 6,
+				"inventory": 2147483903,
+				"quantity": 1,
+				"origin": 1,
+				"flag_cannot_trade": true
+			},
+			{
+				"id": 267578590,
+				"original_id": 267578590,
+				"defindex": 239,
+				"level": 10,
+				"quality": 6,
+				"inventory": 2147483780,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 287298319,
+				"original_id": 287298319,
+				"defindex": 299,
+				"level": 20,
+				"quality": 1,
+				"inventory": 2147483693,
+				"quantity": 1,
+				"origin": 13,
+				"equipped": [
+					{
+						"class": 8,
+						"slot": 10
+					}
+				]
+				
+			},
+			{
+				"id": 291470317,
+				"original_id": 291470317,
+				"defindex": 357,
+				"level": 5,
+				"quality": 6,
+				"inventory": 2147483832,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 297591683,
+				"original_id": 297591683,
+				"defindex": 331,
+				"level": 10,
+				"quality": 6,
+				"inventory": 2147483782,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 297601193,
+				"original_id": 297601193,
+				"defindex": 310,
+				"level": 10,
+				"quality": 6,
+				"inventory": 2147483784,
+				"quantity": 1,
+				"origin": 4,
+				"attributes": [
+					{
+						"defindex": 228,
+						"value": 35537041,
+						"float_value": 0.000000,
+						"account_info": {
+							"steamid": 76561197995802769,
+							"personaname": "forivall believes in SCIENCE!DL"
+						}
+					}
+				]
+				
+			},
+			{
+				"id": 297604207,
+				"original_id": 297604207,
+				"defindex": 348,
+				"level": 10,
+				"quality": 6,
+				"inventory": 2147483728,
+				"quantity": 1,
+				"origin": 4,
+				"attributes": [
+					{
+						"defindex": 228,
+						"value": 35537041,
+						"float_value": 0.000000,
+						"account_info": {
+							"steamid": 76561197995802769,
+							"personaname": "forivall believes in SCIENCE!DL"
+						}
+					}
+				]
+				
+			},
+			{
+				"id": 297605034,
+				"original_id": 297605034,
+				"defindex": 225,
+				"level": 1,
+				"quality": 6,
+				"inventory": 2147484046,
+				"quantity": 1,
+				"origin": 4,
+				"flag_cannot_trade": true,
+				"attributes": [
+					{
+						"defindex": 228,
+						"value": 35537041,
+						"float_value": 0.000000,
+						"account_info": {
+							"steamid": 76561197995802769,
+							"personaname": "forivall believes in SCIENCE!DL"
+						}
+					}
+				]
+				
+			},
+			{
+				"id": 297609578,
+				"original_id": 297609578,
+				"defindex": 254,
+				"level": 88,
+				"quality": 6,
+				"inventory": 2147483849,
+				"quantity": 1,
+				"origin": 4,
+				"attributes": [
+					{
+						"defindex": 228,
+						"value": 35537041,
+						"float_value": 0.000000,
+						"account_info": {
+							"steamid": 76561197995802769,
+							"personaname": "forivall believes in SCIENCE!DL"
+						}
+					}
+				]
+				
+			},
+			{
+				"id": 298905664,
+				"original_id": 298905664,
+				"defindex": 215,
+				"level": 10,
+				"quality": 6,
+				"inventory": 2147483719,
+				"quantity": 1,
+				"origin": 0,
+				"equipped": [
+					{
+						"class": 7,
+						"slot": 0
+					}
+				]
+				
+			},
+			{
+				"id": 298913315,
+				"original_id": 298913315,
+				"defindex": 105,
+				"level": 18,
+				"quality": 6,
+				"inventory": 2147483855,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 302891344,
+				"original_id": 302891344,
+				"defindex": 239,
+				"level": 10,
+				"quality": 6,
+				"inventory": 2147484021,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 326295666,
+				"original_id": 326295666,
+				"defindex": 471,
+				"level": 50,
+				"quality": 6,
+				"inventory": 2147483882,
+				"quantity": 1,
+				"origin": 13,
+				"flag_cannot_trade": true
+			},
+			{
+				"id": 328715417,
+				"original_id": 328715417,
+				"defindex": 355,
+				"level": 5,
+				"quality": 6,
+				"inventory": 2147483710,
+				"quantity": 1,
+				"origin": 4,
+				"equipped": [
+					{
+						"class": 0,
+						"slot": 2
+					}
+				]
+				,
+				"attributes": [
+					{
+						"defindex": 228,
+						"value": 35537041,
+						"float_value": 0.000000,
+						"account_info": {
+							"steamid": 76561197995802769,
+							"personaname": "forivall believes in SCIENCE!DL"
+						}
+					}
+				]
+				
+			},
+			{
+				"id": 330984710,
+				"original_id": 330984710,
+				"defindex": 356,
+				"level": 1,
+				"quality": 6,
+				"inventory": 2147483747,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 331483136,
+				"original_id": 331483136,
+				"defindex": 444,
+				"level": 10,
+				"quality": 6,
+				"inventory": 2147483814,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 331720186,
+				"original_id": 331720186,
+				"defindex": 424,
+				"level": 5,
+				"quality": 6,
+				"inventory": 2147483769,
+				"quantity": 1,
+				"origin": 4,
+				"flag_cannot_trade": true,
+				"attributes": [
+					{
+						"defindex": 228,
+						"value": 35537041,
+						"float_value": 0.000000,
+						"account_info": {
+							"steamid": 76561197995802769,
+							"personaname": "forivall believes in SCIENCE!DL"
+						}
+					},
+					{
+						"defindex": 229,
+						"value": 21156,
+						"float_value": 0.000000
+					}
+				]
+				
+			},
+			{
+				"id": 352251131,
+				"original_id": 174089602,
+				"defindex": 58,
+				"level": 5,
+				"quality": 6,
+				"inventory": 2147483977,
+				"quantity": 1,
+				"origin": 3
+			},
+			{
+				"id": 361243523,
+				"original_id": 361243523,
+				"defindex": 294,
+				"level": 5,
+				"quality": 6,
+				"inventory": 2147483702,
+				"quantity": 1,
+				"origin": 1,
+				"equipped": [
+					{
+						"class": 1,
+						"slot": 1
+					},
+					{
+						"class": 9,
+						"slot": 1
+					}
+				]
+				,
+				"flag_cannot_trade": true
+			},
+			{
+				"id": 361243524,
+				"original_id": 361243524,
+				"defindex": 296,
+				"level": 20,
+				"quality": 6,
+				"inventory": 2147483695,
+				"quantity": 1,
+				"origin": 1,
+				"equipped": [
+					{
+						"class": 6,
+						"slot": 10
+					}
+				]
+				,
+				"flag_cannot_trade": true
+			},
+			{
+				"id": 361243525,
+				"original_id": 361243525,
+				"defindex": 297,
+				"level": 5,
+				"quality": 6,
+				"inventory": 2147483745,
+				"quantity": 1,
+				"origin": 1,
+				"flag_cannot_trade": true
+			},
+			{
+				"id": 361243526,
+				"original_id": 361243526,
+				"defindex": 295,
+				"level": 20,
+				"quality": 6,
+				"inventory": 2147483894,
+				"quantity": 1,
+				"origin": 1,
+				"flag_cannot_trade": true
+			},
+			{
+				"id": 363760234,
+				"original_id": 363760234,
+				"defindex": 438,
+				"level": 5,
+				"quality": 6,
+				"inventory": 2147483687,
+				"quantity": 1,
+				"origin": 1,
+				"equipped": [
+					{
+						"class": 7,
+						"slot": 9
+					},
+					{
+						"class": 9,
+						"slot": 9
+					},
+					{
+						"class": 8,
+						"slot": 9
+					},
+					{
+						"class": 1,
+						"slot": 9
+					},
+					{
+						"class": 4,
+						"slot": 9
+					}
+				]
+				,
+				"flag_cannot_trade": true
+			},
+			{
+				"id": 365221466,
+				"original_id": 365221466,
+				"defindex": 58,
+				"level": 5,
+				"quality": 6,
+				"inventory": 2147483976,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 366080421,
+				"original_id": 366080421,
+				"defindex": 417,
+				"level": 76,
+				"quality": 6,
+				"inventory": 2147483865,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 367620581,
+				"original_id": 367620581,
+				"defindex": 252,
+				"level": 1,
+				"quality": 6,
+				"inventory": 2147483853,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 379403530,
+				"original_id": 379403530,
+				"defindex": 451,
+				"level": 43,
+				"quality": 6,
+				"inventory": 2147483897,
+				"quantity": 1,
+				"origin": 0,
+				"style": 1
+			},
+			{
+				"id": 379482495,
+				"original_id": 379482495,
+				"defindex": 239,
+				"level": 10,
+				"quality": 6,
+				"inventory": 2147484024,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 398678936,
+				"original_id": 398678936,
+				"defindex": 109,
+				"level": 6,
+				"quality": 6,
+				"inventory": 2147483864,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 432164526,
+				"original_id": 432164526,
+				"defindex": 528,
+				"level": 5,
+				"quality": 6,
+				"inventory": 2147483763,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 432735428,
+				"original_id": 432735428,
+				"defindex": 308,
+				"level": 10,
+				"quality": 6,
+				"inventory": 2147484008,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 435394695,
+				"original_id": 435394695,
+				"defindex": 525,
+				"level": 5,
+				"quality": 6,
+				"inventory": 2147484044,
+				"quantity": 1,
+				"origin": 4,
+				"flag_cannot_trade": true,
+				"attributes": [
+					{
+						"defindex": 228,
+						"value": 35537041,
+						"float_value": 0.000000,
+						"account_info": {
+							"steamid": 76561197995802769,
+							"personaname": "forivall believes in SCIENCE!DL"
+						}
+					},
+					{
+						"defindex": 229,
+						"value": 12117,
+						"float_value": 0.000000
+					}
+				]
+				
+			},
+			{
+				"id": 436888459,
+				"original_id": 436888459,
+				"defindex": 406,
+				"level": 10,
+				"quality": 6,
+				"inventory": 2147483820,
+				"quantity": 1,
+				"origin": 4,
+				"style": 1,
+				"attributes": [
+					{
+						"defindex": 228,
+						"value": 35537041,
+						"float_value": 0.000000,
+						"account_info": {
+							"steamid": 76561197995802769,
+							"personaname": "forivall believes in SCIENCE!DL"
+						}
+					},
+					{
+						"defindex": 229,
+						"value": 46342,
+						"float_value": 0.000000
+					}
+				]
+				
+			},
+			{
+				"id": 440806661,
+				"original_id": 440806661,
+				"defindex": 536,
+				"level": 5,
+				"quality": 6,
+				"inventory": 2147483899,
+				"quantity": 25,
+				"origin": 0,
+				"equipped": [
+					{
+						"class": 3,
+						"slot": 9
+					}
+				]
+				,
+				"flag_cannot_trade": true
+			},
+			{
+				"id": 440806662,
+				"original_id": 440806662,
+				"defindex": 537,
+				"level": 10,
+				"quality": 6,
+				"inventory": 2147483898,
+				"quantity": 1,
+				"origin": 0,
+				"equipped": [
+					{
+						"class": 0,
+						"slot": 7
+					},
+					{
+						"class": 6,
+						"slot": 7
+					}
+				]
+				,
+				"flag_cannot_trade": true
+			},
+			{
+				"id": 445375277,
+				"original_id": 445375277,
+				"defindex": 153,
+				"level": 5,
+				"quality": 6,
+				"inventory": 2147483722,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 445439460,
+				"original_id": 445439460,
+				"defindex": 447,
+				"level": 10,
+				"quality": 6,
+				"inventory": 2147483815,
+				"quantity": 1,
+				"origin": 0,
+				"equipped": [
+					{
+						"class": 3,
+						"slot": 2
+					}
+				]
+				
+			},
+			{
+				"id": 452962446,
+				"original_id": 452962446,
+				"defindex": 413,
+				"level": 10,
+				"quality": 6,
+				"inventory": 2147483756,
+				"quantity": 1,
+				"origin": 0,
+				"equipped": [
+					{
+						"class": 5,
+						"slot": 2
+					}
+				]
+				
+			},
+			{
+				"id": 464799880,
+				"original_id": 464799880,
+				"defindex": 163,
+				"level": 5,
+				"quality": 6,
+				"inventory": 2147483706,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 473502236,
+				"original_id": 473502236,
+				"defindex": 213,
+				"level": 99,
+				"quality": 6,
+				"inventory": 2147483885,
+				"quantity": 1,
+				"origin": 4,
+				"equipped": [
+					{
+						"class": 7,
+						"slot": 7
+					}
+				]
+				,
+				"attributes": [
+					{
+						"defindex": 228,
+						"value": 35537041,
+						"float_value": 0.000000,
+						"account_info": {
+							"steamid": 76561197995802769,
+							"personaname": "forivall believes in SCIENCE!DL"
+						}
+					}
+				]
+				
+			},
+			{
+				"id": 478990752,
+				"original_id": 478990752,
+				"defindex": 154,
+				"level": 5,
+				"quality": 6,
+				"inventory": 2147484011,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 519212517,
+				"original_id": 519212517,
+				"defindex": 598,
+				"level": 10,
+				"quality": 6,
+				"inventory": 2147483879,
+				"quantity": 1,
+				"origin": 6
+			},
+			{
+				"id": 526598648,
+				"original_id": 526598648,
+				"defindex": 326,
+				"level": 10,
+				"quality": 6,
+				"inventory": 2147483725,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 533402769,
+				"original_id": 533402769,
+				"defindex": 173,
+				"level": 5,
+				"quality": 6,
+				"inventory": 2147483757,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 535222111,
+				"original_id": 535222111,
+				"defindex": 221,
+				"level": 42,
+				"quality": 6,
+				"inventory": 2147483711,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 535408837,
+				"original_id": 535408837,
+				"defindex": 405,
+				"level": 10,
+				"quality": 6,
+				"inventory": 2147483829,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 535547906,
+				"original_id": 535547906,
+				"defindex": 239,
+				"level": 10,
+				"quality": 6,
+				"inventory": 2147484023,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 535679751,
+				"original_id": 535679751,
+				"defindex": 274,
+				"level": 10,
+				"quality": 6,
+				"inventory": 2147483919,
+				"quantity": 1,
+				"origin": 12
+			},
+			{
+				"id": 536059165,
+				"original_id": 536059165,
+				"defindex": 270,
+				"level": 10,
+				"quality": 6,
+				"inventory": 2147483920,
+				"quantity": 1,
+				"origin": 12
+			},
+			{
+				"id": 536229907,
+				"original_id": 536229907,
+				"defindex": 172,
+				"level": 5,
+				"quality": 6,
+				"inventory": 2147483833,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 540732634,
+				"original_id": 540732634,
+				"defindex": 276,
+				"level": 10,
+				"quality": 6,
+				"inventory": 2147483922,
+				"quantity": 1,
+				"origin": 12
+			},
+			{
+				"id": 547656898,
+				"original_id": 547656898,
+				"defindex": 582,
+				"level": 31,
+				"quality": 6,
+				"inventory": 2147483910,
+				"quantity": 1,
+				"origin": 6,
+				"flag_cannot_trade": true
+			},
+			{
+				"id": 547656899,
+				"original_id": 547656899,
+				"defindex": 553,
+				"level": 79,
+				"quality": 6,
+				"inventory": 2147483914,
+				"quantity": 1,
+				"origin": 6
+			},
+			{
+				"id": 548294071,
+				"original_id": 548294071,
+				"defindex": 581,
+				"level": 31,
+				"quality": 6,
+				"inventory": 2147483913,
+				"quantity": 1,
+				"origin": 1,
+				"flag_cannot_trade": true
+			},
+			{
+				"id": 548294577,
+				"original_id": 548294577,
+				"defindex": 583,
+				"level": 20,
+				"quality": 6,
+				"inventory": 2147483689,
+				"quantity": 1,
+				"origin": 1,
+				"flag_cannot_trade": true
+			},
+			{
+				"id": 548309858,
+				"original_id": 548309858,
+				"defindex": 568,
+				"level": 13,
+				"quality": 6,
+				"inventory": 2147483877,
+				"quantity": 1,
+				"origin": 12
+			},
+			{
+				"id": 549638452,
+				"original_id": 549638452,
+				"defindex": 412,
+				"level": 5,
+				"quality": 6,
+				"inventory": 2147483751,
+				"quantity": 1,
+				"origin": 4,
+				"attributes": [
+					{
+						"defindex": 228,
+						"value": 35537041,
+						"float_value": 0.000000,
+						"account_info": {
+							"steamid": 76561197995802769,
+							"personaname": "forivall believes in SCIENCE!DL"
+						}
+					}
+				]
+				
+			},
+			{
+				"id": 549643789,
+				"original_id": 549643789,
+				"defindex": 411,
+				"level": 8,
+				"quality": 6,
+				"inventory": 2147483753,
+				"quantity": 1,
+				"origin": 4,
+				"flag_cannot_trade": true,
+				"attributes": [
+					{
+						"defindex": 228,
+						"value": 35537041,
+						"float_value": 0.000000,
+						"account_info": {
+							"steamid": 76561197995802769,
+							"personaname": "forivall believes in SCIENCE!DL"
+						}
+					}
+				]
+				
+			},
+			{
+				"id": 549848737,
+				"original_id": 549848737,
+				"defindex": 269,
+				"level": 10,
+				"quality": 6,
+				"inventory": 2147483921,
+				"quantity": 1,
+				"origin": 12
+			},
+			{
+				"id": 550115622,
+				"original_id": 550115622,
+				"defindex": 544,
+				"level": 27,
+				"quality": 13,
+				"inventory": 2147483875,
+				"quantity": 1,
+				"origin": 12,
+				"attributes": [
+					{
+						"defindex": 189,
+						"value": 1095761920,
+						"float_value": 13.000000
+					}
+				]
+				
+			},
+			{
+				"id": 550193746,
+				"original_id": 546567696,
+				"defindex": 565,
+				"level": 82,
+				"quality": 6,
+				"inventory": 2147483876,
+				"quantity": 1,
+				"origin": 12
+			},
+			{
+				"id": 570569134,
+				"original_id": 570569134,
+				"defindex": 58,
+				"level": 5,
+				"quality": 6,
+				"inventory": 2147483978,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 576906010,
+				"original_id": 576906010,
+				"defindex": 317,
+				"level": 25,
+				"quality": 6,
+				"inventory": 2147483713,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 577905312,
+				"original_id": 577905312,
+				"defindex": 239,
+				"level": 10,
+				"quality": 6,
+				"inventory": 2147484022,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 578107454,
+				"original_id": 578107454,
+				"defindex": 617,
+				"level": 10,
+				"quality": 6,
+				"inventory": 2147483854,
+				"quantity": 1,
+				"origin": 0,
+				"style": 0
+			},
+			{
+				"id": 598197652,
+				"original_id": 598197652,
+				"defindex": 329,
+				"level": 15,
+				"quality": 6,
+				"inventory": 2147483767,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 600984535,
+				"original_id": 600984535,
+				"defindex": 311,
+				"level": 1,
+				"quality": 6,
+				"inventory": 2147484028,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 601033021,
+				"original_id": 601033021,
+				"defindex": 232,
+				"level": 5,
+				"quality": 6,
+				"inventory": 2147483788,
+				"quantity": 1,
+				"origin": 0,
+				"equipped": [
+					{
+						"class": 2,
+						"slot": 2
+					}
+				]
+				
+			},
+			{
+				"id": 603517818,
+				"original_id": 603517818,
+				"defindex": 219,
+				"level": 68,
+				"quality": 6,
+				"inventory": 2147483884,
+				"quantity": 1,
+				"origin": 4,
+				"attributes": [
+					{
+						"defindex": 228,
+						"value": 35537041,
+						"float_value": 0.000000,
+						"account_info": {
+							"steamid": 76561197995802769,
+							"personaname": "forivall believes in SCIENCE!DL"
+						}
+					}
+				]
+				
+			},
+			{
+				"id": 609297469,
+				"original_id": 609297469,
+				"defindex": 222,
+				"level": 5,
+				"quality": 6,
+				"inventory": 2147483990,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 609322875,
+				"original_id": 609322875,
+				"defindex": 58,
+				"level": 5,
+				"quality": 6,
+				"inventory": 2147483975,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 609919605,
+				"original_id": 609919605,
+				"defindex": 673,
+				"level": 5,
+				"quality": 6,
+				"inventory": 2147483900,
+				"quantity": 25,
+				"origin": 0
+			},
+			{
+				"id": 616090643,
+				"original_id": 556379153,
+				"defindex": 393,
+				"level": 33,
+				"quality": 6,
+				"inventory": 2147483889,
+				"quantity": 1,
+				"origin": 8,
+				"equipped": [
+					{
+						"class": 2,
+						"slot": 10
+					}
+				]
+				,
+				"style": 1
+			},
+			{
+				"id": 620982545,
+				"original_id": 620982545,
+				"defindex": 668,
+				"level": 63,
+				"quality": 6,
+				"inventory": 2147483888,
+				"quantity": 1,
+				"origin": 1,
+				"flag_cannot_trade": true
+			},
+			{
+				"id": 624433686,
+				"original_id": 624433686,
+				"defindex": 655,
+				"level": 1,
+				"quality": 11,
+				"inventory": 2147483692,
+				"quantity": 1,
+				"origin": 0,
+				"flag_cannot_trade": true,
+				"attributes": [
+					{
+						"defindex": 214,
+						"value": 4,
+						"float_value": 0.000000
+					}
+				]
+				
+			},
+			{
+				"id": 624573948,
+				"original_id": 624573948,
+				"defindex": 349,
+				"level": 10,
+				"quality": 6,
+				"inventory": 2147483709,
+				"quantity": 1,
+				"origin": 6,
+				"attributes": [
+					{
+						"defindex": 185,
+						"value": 1324533648,
+						"float_value": 2036582400.000000
+					},
+					{
+						"defindex": 186,
+						"value": 615316,
+						"float_value": 0.000000,
+						"account_info": {
+							"steamid": 76561197960881044,
+							"personaname": "bunk"
+						}
+					}
+				]
+				
+			},
+			{
+				"id": 624728278,
+				"original_id": 624728278,
+				"defindex": 457,
+				"level": 10,
+				"quality": 6,
+				"inventory": 2147483726,
+				"quantity": 1,
+				"origin": 6,
+				"attributes": [
+					{
+						"defindex": 185,
+						"value": 1324538906,
+						"float_value": 2037255424.000000
+					},
+					{
+						"defindex": 186,
+						"value": 295106,
+						"float_value": 0.000000,
+						"account_info": {
+							"steamid": 76561197960560834,
+							"personaname": "SoulRebel"
+						}
+					}
+				]
+				
+			},
+			{
+				"id": 635224175,
+				"original_id": 635224175,
+				"defindex": 473,
+				"level": 10,
+				"quality": 6,
+				"inventory": 2147483886,
+				"quantity": 1,
+				"origin": 1,
+				"flag_cannot_trade": true
+			},
+			{
+				"id": 655526998,
+				"original_id": 655526998,
+				"defindex": 298,
+				"level": 5,
+				"quality": 6,
+				"inventory": 2147483770,
+				"quantity": 1,
+				"origin": 1,
+				"equipped": [
+					{
+						"class": 6,
+						"slot": 0
+					}
+				]
+				,
+				"flag_cannot_trade": true
+			},
+			{
+				"id": 665447210,
+				"original_id": 665447210,
+				"defindex": 5020,
+				"level": 1,
+				"quality": 6,
+				"inventory": 2147483901,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 670297676,
+				"original_id": 670297676,
+				"defindex": 99,
+				"level": 31,
+				"quality": 6,
+				"inventory": 2147483852,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 673497723,
+				"original_id": 668052269,
+				"defindex": 214,
+				"level": 5,
+				"quality": 6,
+				"inventory": 2147484005,
+				"quantity": 1,
+				"origin": 0,
+				"equipped": [
+					{
+						"class": 7,
+						"slot": 2
+					}
+				]
+				
+			},
+			{
+				"id": 673613678,
+				"original_id": 673613678,
+				"defindex": 526,
+				"level": 5,
+				"quality": 6,
+				"inventory": 2147483789,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 673735569,
+				"original_id": 673735569,
+				"defindex": 242,
+				"level": 1,
+				"quality": 6,
+				"inventory": 2147483690,
+				"quantity": 1,
+				"origin": 9,
+				"flag_cannot_trade": true,
+				"attributes": [
+					{
+						"defindex": 185,
+						"value": 1327138119,
+						"float_value": 2592425728.000000
+					}
+				]
+				
+			},
+			{
+				"id": 675513206,
+				"original_id": 675513206,
+				"defindex": 426,
+				"level": 10,
+				"quality": 6,
+				"inventory": 2147483783,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 692106056,
+				"original_id": 692106056,
+				"defindex": 132,
+				"level": 5,
+				"quality": 6,
+				"inventory": 2147483824,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 697205226,
+				"original_id": 697205226,
+				"defindex": 414,
+				"level": 25,
+				"quality": 6,
+				"inventory": 2147483801,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 697237567,
+				"original_id": 697237567,
+				"defindex": 605,
+				"level": 10,
+				"quality": 6,
+				"inventory": 2147483862,
+				"quantity": 1,
+				"origin": 0,
+				"equipped": [
+					{
+						"class": 9,
+						"slot": 7
+					}
+				]
+				
+			},
+			{
+				"id": 702003386,
+				"original_id": 702003386,
+				"defindex": 329,
+				"level": 15,
+				"quality": 6,
+				"inventory": 2147484030,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 705452343,
+				"original_id": 705452343,
+				"defindex": 474,
+				"level": 25,
+				"quality": 6,
+				"inventory": 2147483841,
+				"quantity": 1,
+				"origin": 0,
+				"equipped": [
+					{
+						"class": 4,
+						"slot": 2
+					}
+				]
+				
+			},
+			{
+				"id": 705545325,
+				"original_id": 705545325,
+				"defindex": 141,
+				"level": 5,
+				"quality": 6,
+				"inventory": 2147484029,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 705782249,
+				"original_id": 705782249,
+				"defindex": 41,
+				"level": 5,
+				"quality": 6,
+				"inventory": 2147484013,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 711776803,
+				"original_id": 711776803,
+				"defindex": 449,
+				"level": 15,
+				"quality": 6,
+				"inventory": 2147483703,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 715752925,
+				"original_id": 715752925,
+				"defindex": 43,
+				"level": 7,
+				"quality": 6,
+				"inventory": 2147484020,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 715788133,
+				"original_id": 715788133,
+				"defindex": 230,
+				"level": 1,
+				"quality": 6,
+				"inventory": 2147483792,
+				"quantity": 1,
+				"origin": 0,
+				"equipped": [
+					{
+						"class": 2,
+						"slot": 0
+					}
+				]
+				
+			},
+			{
+				"id": 720514001,
+				"original_id": 720514001,
+				"defindex": 450,
+				"level": 10,
+				"quality": 6,
+				"inventory": 2147483716,
+				"quantity": 1,
+				"origin": 6,
+				"attributes": [
+					{
+						"defindex": 185,
+						"value": 1329981247,
+						"float_value": 3320266496.000000
+					},
+					{
+						"defindex": 186,
+						"value": 295106,
+						"float_value": 0.000000,
+						"account_info": {
+							"steamid": 76561197960560834,
+							"personaname": "SoulRebel"
+						}
+					}
+				]
+				
+			},
+			{
+				"id": 729194187,
+				"original_id": 729194187,
+				"defindex": 649,
+				"level": 1,
+				"quality": 6,
+				"inventory": 2147483748,
+				"quantity": 1,
+				"origin": 4,
+				"equipped": [
+					{
+						"class": 8,
+						"slot": 2
+					}
+				]
+				,
+				"attributes": [
+					{
+						"defindex": 228,
+						"value": 35537041,
+						"float_value": 0.000000,
+						"account_info": {
+							"steamid": 76561197995802769,
+							"personaname": "forivall believes in SCIENCE!DL"
+						}
+					},
+					{
+						"defindex": 229,
+						"value": 110450,
+						"float_value": 0.000000
+					}
+				]
+				
+			},
+			{
+				"id": 732183502,
+				"original_id": 732183502,
+				"defindex": 220,
+				"level": 1,
+				"quality": 6,
+				"inventory": 2147483989,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 740176189,
+				"original_id": 740176189,
+				"defindex": 304,
+				"level": 15,
+				"quality": 6,
+				"inventory": 2147483755,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 740444465,
+				"original_id": 740444465,
+				"defindex": 425,
+				"level": 10,
+				"quality": 6,
+				"inventory": 2147484017,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 742015047,
+				"original_id": 742015047,
+				"defindex": 460,
+				"level": 5,
+				"quality": 6,
+				"inventory": 2147483742,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 742080212,
+				"original_id": 742080212,
+				"defindex": 239,
+				"level": 10,
+				"quality": 6,
+				"inventory": 2147484027,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 744093272,
+				"original_id": 744093272,
+				"defindex": 307,
+				"level": 10,
+				"quality": 6,
+				"inventory": 2147483834,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 757084133,
+				"original_id": 757084133,
+				"defindex": 5045,
+				"level": 10,
+				"quality": 6,
+				"inventory": 2147483949,
+				"quantity": 1,
+				"origin": 0,
+				"attributes": [
+					{
+						"defindex": 187,
+						"value": 1108869120,
+						"float_value": 38.000000
+					}
+				]
+				
+			},
+			{
+				"id": 757304618,
+				"original_id": 757304618,
+				"defindex": 327,
+				"level": 5,
+				"quality": 6,
+				"inventory": 2147483835,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 757321917,
+				"original_id": 757321917,
+				"defindex": 513,
+				"level": 5,
+				"quality": 6,
+				"inventory": 2147483999,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 758315081,
+				"original_id": 758315081,
+				"defindex": 442,
+				"level": 30,
+				"quality": 6,
+				"inventory": 2147483809,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 762003758,
+				"original_id": 762003758,
+				"defindex": 402,
+				"level": 10,
+				"quality": 6,
+				"inventory": 2147483793,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 763285839,
+				"original_id": 763285839,
+				"defindex": 231,
+				"level": 10,
+				"quality": 6,
+				"inventory": 2147483790,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 770831785,
+				"original_id": 770831785,
+				"defindex": 215,
+				"level": 10,
+				"quality": 6,
+				"inventory": 2147484002,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 772440864,
+				"original_id": 772440864,
+				"defindex": 231,
+				"level": 10,
+				"quality": 6,
+				"inventory": 2147484041,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 772561767,
+				"original_id": 772561767,
+				"defindex": 5022,
+				"level": 10,
+				"quality": 6,
+				"inventory": 2147483950,
+				"quantity": 1,
+				"origin": 0,
+				"attributes": [
+					{
+						"defindex": 187,
+						"value": 1109131264,
+						"float_value": 39.000000
+					}
+				]
+				
+			},
+			{
+				"id": 772572193,
+				"original_id": 772572193,
+				"defindex": 609,
+				"level": 10,
+				"quality": 6,
+				"inventory": 2147483826,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 776560979,
+				"original_id": 776560979,
+				"defindex": 129,
+				"level": 5,
+				"quality": 6,
+				"inventory": 2147484001,
+				"quantity": 1,
+				"origin": 6,
+				"attributes": [
+					{
+						"defindex": 185,
+						"value": 1333272942,
+						"float_value": 4162940416.000000
+					},
+					{
+						"defindex": 186,
+						"value": 8041381,
+						"float_value": 0.000000,
+						"account_info": {
+							"steamid": 76561197968307109,
+							"personaname": "Grape soda is the best"
+						}
+					}
+				]
+				
+			},
+			{
+				"id": 798395374,
+				"original_id": 798395374,
+				"defindex": 354,
+				"level": 5,
+				"quality": 6,
+				"inventory": 2147483810,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 801262726,
+				"original_id": 801262726,
+				"defindex": 159,
+				"level": 1,
+				"quality": 6,
+				"inventory": 2147484018,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 803426335,
+				"original_id": 803426335,
+				"defindex": 656,
+				"level": 10,
+				"quality": 6,
+				"inventory": 2147483779,
+				"quantity": 1,
+				"origin": 4,
+				"attributes": [
+					{
+						"defindex": 228,
+						"value": 35537041,
+						"float_value": 0.000000,
+						"account_info": {
+							"steamid": 76561197995802769,
+							"personaname": "forivall believes in SCIENCE!DL"
+						}
+					},
+					{
+						"defindex": 229,
+						"value": 20628,
+						"float_value": 0.000000
+					}
+				]
+				
+			},
+			{
+				"id": 803426582,
+				"original_id": 803426582,
+				"defindex": 648,
+				"level": 15,
+				"quality": 6,
+				"inventory": 2147483715,
+				"quantity": 1,
+				"origin": 4,
+				"equipped": [
+					{
+						"class": 1,
+						"slot": 2
+					}
+				]
+				,
+				"attributes": [
+					{
+						"defindex": 228,
+						"value": 35537041,
+						"float_value": 0.000000,
+						"account_info": {
+							"steamid": 76561197995802769,
+							"personaname": "forivall believes in SCIENCE!DL"
+						}
+					},
+					{
+						"defindex": 229,
+						"value": 33194,
+						"float_value": 0.000000
+					}
+				]
+				
+			},
+			{
+				"id": 803426846,
+				"original_id": 803426846,
+				"defindex": 642,
+				"level": 10,
+				"quality": 6,
+				"inventory": 2147483797,
+				"quantity": 1,
+				"origin": 4,
+				"attributes": [
+					{
+						"defindex": 228,
+						"value": 35537041,
+						"float_value": 0.000000,
+						"account_info": {
+							"steamid": 76561197995802769,
+							"personaname": "forivall believes in SCIENCE!DL"
+						}
+					},
+					{
+						"defindex": 229,
+						"value": 38476,
+						"float_value": 0.000000
+					}
+				]
+				
+			},
+			{
+				"id": 803473766,
+				"original_id": 803473766,
+				"defindex": 228,
+				"level": 5,
+				"quality": 6,
+				"inventory": 2147483799,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 803557575,
+				"original_id": 803557575,
+				"defindex": 222,
+				"level": 5,
+				"quality": 6,
+				"inventory": 2147483704,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 804906062,
+				"original_id": 804906062,
+				"defindex": 224,
+				"level": 5,
+				"quality": 6,
+				"inventory": 2147483741,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 804936370,
+				"original_id": 804936370,
+				"defindex": 220,
+				"level": 1,
+				"quality": 6,
+				"inventory": 2147483701,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 805018170,
+				"original_id": 805018170,
+				"defindex": 5026,
+				"level": 5,
+				"quality": 6,
+				"inventory": 2147483902,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 815025472,
+				"original_id": 815025472,
+				"defindex": 5045,
+				"level": 10,
+				"quality": 6,
+				"inventory": 2147483951,
+				"quantity": 1,
+				"origin": 0,
+				"attributes": [
+					{
+						"defindex": 187,
+						"value": 1109655552,
+						"float_value": 41.000000
+					}
+				]
+				
+			},
+			{
+				"id": 815036384,
+				"original_id": 815036384,
+				"defindex": 56,
+				"level": 10,
+				"quality": 6,
+				"inventory": 2147484039,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 816312472,
+				"original_id": 816312472,
+				"defindex": 482,
+				"level": 5,
+				"quality": 6,
+				"inventory": 2147484010,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 816442492,
+				"original_id": 816442492,
+				"defindex": 401,
+				"level": 5,
+				"quality": 6,
+				"inventory": 2147483796,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 823670223,
+				"original_id": 823670223,
+				"defindex": 5022,
+				"level": 10,
+				"quality": 6,
+				"inventory": 2147483956,
+				"quantity": 1,
+				"origin": 0,
+				"attributes": [
+					{
+						"defindex": 187,
+						"value": 1110179840,
+						"float_value": 43.000000
+					}
+				]
+				
+			},
+			{
+				"id": 823696408,
+				"original_id": 823696408,
+				"defindex": 42,
+				"level": 1,
+				"quality": 6,
+				"inventory": 2147484015,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 823725225,
+				"original_id": 823725225,
+				"defindex": 389,
+				"level": 69,
+				"quality": 6,
+				"inventory": 2147483896,
+				"quantity": 1,
+				"origin": 0,
+				"equipped": [
+					{
+						"class": 9,
+						"slot": 10
+					}
+				]
+				,
+				"style": 1
+			},
+			{
+				"id": 823764380,
+				"original_id": 823764380,
+				"defindex": 579,
+				"level": 31,
+				"quality": 6,
+				"inventory": 2147483911,
+				"quantity": 1,
+				"origin": 4,
+				"flag_cannot_trade": true,
+				"attributes": [
+					{
+						"defindex": 228,
+						"value": 35537041,
+						"float_value": 0.000000,
+						"account_info": {
+							"steamid": 76561197995802769,
+							"personaname": "forivall believes in SCIENCE!DL"
+						}
+					}
+				]
+				
+			},
+			{
+				"id": 825311301,
+				"original_id": 825311301,
+				"defindex": 608,
+				"level": 10,
+				"quality": 6,
+				"inventory": 2147483830,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 825319803,
+				"original_id": 825319803,
+				"defindex": 5041,
+				"level": 10,
+				"quality": 6,
+				"inventory": 2147483953,
+				"quantity": 1,
+				"origin": 0,
+				"attributes": [
+					{
+						"defindex": 187,
+						"value": 1109917696,
+						"float_value": 42.000000
+					}
+				]
+				
+			},
+			{
+				"id": 828830866,
+				"original_id": 814156552,
+				"defindex": 5002,
+				"level": 3,
+				"quality": 6,
+				"inventory": 2147483653,
+				"quantity": 1,
+				"origin": 4
+			},
+			{
+				"id": 831300155,
+				"original_id": 652255110,
+				"defindex": 588,
+				"level": 10,
+				"quality": 6,
+				"inventory": 2147483761,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 834258270,
+				"original_id": 834258270,
+				"defindex": 461,
+				"level": 1,
+				"quality": 6,
+				"inventory": 2147483738,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 834320684,
+				"original_id": 834320684,
+				"defindex": 5041,
+				"level": 10,
+				"quality": 6,
+				"inventory": 2147483952,
+				"quantity": 1,
+				"origin": 0,
+				"attributes": [
+					{
+						"defindex": 187,
+						"value": 1109917696,
+						"float_value": 42.000000
+					}
+				]
+				
+			},
+			{
+				"id": 835579956,
+				"original_id": 835579956,
+				"defindex": 448,
+				"level": 10,
+				"quality": 6,
+				"inventory": 2147483699,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 837246128,
+				"original_id": 837246128,
+				"defindex": 310,
+				"level": 10,
+				"quality": 6,
+				"inventory": 2147484016,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 837432217,
+				"original_id": 837432217,
+				"defindex": 5022,
+				"level": 10,
+				"quality": 6,
+				"inventory": 2147483958,
+				"quantity": 1,
+				"origin": 0,
+				"attributes": [
+					{
+						"defindex": 187,
+						"value": 1110179840,
+						"float_value": 43.000000
+					}
+				]
+				
+			},
+			{
+				"id": 839419371,
+				"original_id": 839419371,
+				"defindex": 416,
+				"level": 10,
+				"quality": 6,
+				"inventory": 2147483816,
+				"quantity": 1,
+				"origin": 6,
+				"attributes": [
+					{
+						"defindex": 185,
+						"value": 1336893133,
+						"float_value": 5884451328.000000
+					},
+					{
+						"defindex": 186,
+						"value": 38571682,
+						"float_value": 0.000000,
+						"account_info": {
+							"steamid": 76561197998837410,
+							"personaname": "*Mister Bubbles"
+						}
+					}
+				]
+				
+			},
+			{
+				"id": 839419424,
+				"original_id": 839419424,
+				"defindex": 225,
+				"level": 1,
+				"quality": 6,
+				"inventory": 2147483746,
+				"quantity": 1,
+				"origin": 6,
+				"attributes": [
+					{
+						"defindex": 185,
+						"value": 1336893135,
+						"float_value": 5884452352.000000
+					},
+					{
+						"defindex": 186,
+						"value": 38571682,
+						"float_value": 0.000000,
+						"account_info": {
+							"steamid": 76561197998837410,
+							"personaname": "*Mister Bubbles"
+						}
+					}
+				]
+				
+			},
+			{
+				"id": 839419469,
+				"original_id": 839419469,
+				"defindex": 589,
+				"level": 20,
+				"quality": 6,
+				"inventory": 2147483765,
+				"quantity": 1,
+				"origin": 6,
+				"attributes": [
+					{
+						"defindex": 185,
+						"value": 1336893137,
+						"float_value": 5884453376.000000
+					},
+					{
+						"defindex": 186,
+						"value": 38571682,
+						"float_value": 0.000000,
+						"account_info": {
+							"steamid": 76561197998837410,
+							"personaname": "*Mister Bubbles"
+						}
+					}
+				]
+				
+			},
+			{
+				"id": 845891556,
+				"original_id": 845891556,
+				"defindex": 35,
+				"level": 8,
+				"quality": 6,
+				"inventory": 2147484037,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 845917394,
+				"original_id": 845917394,
+				"defindex": 5022,
+				"level": 10,
+				"quality": 6,
+				"inventory": 2147483959,
+				"quantity": 1,
+				"origin": 0,
+				"attributes": [
+					{
+						"defindex": 187,
+						"value": 1110179840,
+						"float_value": 43.000000
+					}
+				]
+				
+			},
+			{
+				"id": 845973529,
+				"original_id": 845973529,
+				"defindex": 441,
+				"level": 30,
+				"quality": 6,
+				"inventory": 2147483802,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 854251815,
+				"original_id": 854251815,
+				"defindex": 404,
+				"level": 10,
+				"quality": 6,
+				"inventory": 2147483825,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 854317587,
+				"original_id": 854317587,
+				"defindex": 609,
+				"level": 10,
+				"quality": 6,
+				"inventory": 2147484012,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 854391280,
+				"original_id": 854391280,
+				"defindex": 415,
+				"level": 10,
+				"quality": 6,
+				"inventory": 2147483727,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 855750580,
+				"original_id": 855750580,
+				"defindex": 159,
+				"level": 1,
+				"quality": 6,
+				"inventory": 2147483776,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 855778438,
+				"original_id": 855778438,
+				"defindex": 41,
+				"level": 5,
+				"quality": 6,
+				"inventory": 2147484014,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 855871439,
+				"original_id": 350596006,
+				"defindex": 397,
+				"level": 89,
+				"quality": 6,
+				"inventory": 2147483895,
+				"quantity": 1,
+				"origin": 0,
+				"custom_name": "Dr. Enforcicle's Love Hat",
+				"equipped": [
+					{
+						"class": 8,
+						"slot": 7
+					}
+				]
+				
+			},
+			{
+				"id": 855903492,
+				"original_id": 855903492,
+				"defindex": 127,
+				"level": 1,
+				"quality": 6,
+				"inventory": 2147483991,
+				"quantity": 1,
+				"origin": 6,
+				"attributes": [
+					{
+						"defindex": 185,
+						"value": 1337930310,
+						"float_value": 6415485952.000000
+					},
+					{
+						"defindex": 186,
+						"value": 5017644,
+						"float_value": 0.000000,
+						"account_info": {
+							"steamid": 76561197965283372,
+							"personaname": "['o']SoSpartan"
+						}
+					}
+				]
+				
+			},
+			{
+				"id": 860844982,
+				"original_id": 451369643,
+				"defindex": 525,
+				"level": 5,
+				"quality": 6,
+				"inventory": 2147484045,
+				"quantity": 1,
+				"origin": 2,
+				"flag_cannot_craft": true
+			},
+			{
+				"id": 864432381,
+				"original_id": 864432381,
+				"defindex": 58,
+				"level": 5,
+				"quality": 6,
+				"inventory": 2147483973,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 864458534,
+				"original_id": 864458534,
+				"defindex": 5041,
+				"level": 10,
+				"quality": 6,
+				"inventory": 2147483961,
+				"quantity": 1,
+				"origin": 0,
+				"attributes": [
+					{
+						"defindex": 187,
+						"value": 1110441984,
+						"float_value": 44.000000
+					}
+				]
+				
+			},
+			{
+				"id": 864524677,
+				"original_id": 864524677,
+				"defindex": 58,
+				"level": 5,
+				"quality": 6,
+				"inventory": 2147483974,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 864607401,
+				"original_id": 864607401,
+				"defindex": 527,
+				"level": 5,
+				"quality": 6,
+				"inventory": 2147483760,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 864682996,
+				"original_id": 864682996,
+				"defindex": 5022,
+				"level": 10,
+				"quality": 6,
+				"inventory": 2147483954,
+				"quantity": 1,
+				"origin": 0,
+				"attributes": [
+					{
+						"defindex": 187,
+						"value": 1110179840,
+						"float_value": 43.000000
+					}
+				]
+				
+			},
+			{
+				"id": 866018985,
+				"original_id": 866018985,
+				"defindex": 214,
+				"level": 5,
+				"quality": 6,
+				"inventory": 2147483723,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 866101953,
+				"original_id": 866101953,
+				"defindex": 239,
+				"level": 10,
+				"quality": 6,
+				"inventory": 2147484025,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 866134668,
+				"original_id": 866134668,
+				"defindex": 594,
+				"level": 10,
+				"quality": 6,
+				"inventory": 2147483721,
+				"quantity": 1,
+				"origin": 4,
+				"attributes": [
+					{
+						"defindex": 228,
+						"value": 35537041,
+						"float_value": 0.000000,
+						"account_info": {
+							"steamid": 76561197995802769,
+							"personaname": "forivall believes in SCIENCE!DL"
+						}
+					},
+					{
+						"defindex": 229,
+						"value": 181300,
+						"float_value": 0.000000
+					}
+				]
+				
+			},
+			{
+				"id": 868011201,
+				"original_id": 763909607,
+				"defindex": 525,
+				"level": 5,
+				"quality": 11,
+				"inventory": 2147483740,
+				"quantity": 1,
+				"origin": 8,
+				"attributes": [
+					{
+						"defindex": 189,
+						"value": 1093664768,
+						"float_value": 11.000000
+					},
+					{
+						"defindex": 214,
+						"value": 5,
+						"float_value": 0.000000
+					}
+				]
+				
+			},
+			{
+				"id": 875068752,
+				"original_id": 875068752,
+				"defindex": 142,
+				"level": 15,
+				"quality": 6,
+				"inventory": 2147484031,
+				"quantity": 1,
+				"origin": 0,
+				"equipped": [
+					{
+						"class": 9,
+						"slot": 2
+					}
+				]
+				
+			},
+			{
+				"id": 875173441,
+				"original_id": 875173441,
+				"defindex": 5045,
+				"level": 10,
+				"quality": 6,
+				"inventory": 2147483963,
+				"quantity": 1,
+				"origin": 0,
+				"attributes": [
+					{
+						"defindex": 187,
+						"value": 1110704128,
+						"float_value": 45.000000
+					}
+				]
+				
+			},
+			{
+				"id": 875247710,
+				"original_id": 875247710,
+				"defindex": 351,
+				"level": 10,
+				"quality": 6,
+				"inventory": 2147483731,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 875287029,
+				"original_id": 875287029,
+				"defindex": 44,
+				"level": 15,
+				"quality": 6,
+				"inventory": 2147483985,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 876361937,
+				"original_id": 876361937,
+				"defindex": 61,
+				"level": 5,
+				"quality": 6,
+				"inventory": 2147484043,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 879100146,
+				"original_id": 869540513,
+				"defindex": 127,
+				"level": 1,
+				"quality": 11,
+				"inventory": 2147483803,
+				"quantity": 1,
+				"origin": 8,
+				"equipped": [
+					{
+						"class": 3,
+						"slot": 0
+					}
+				]
+				,
+				"attributes": [
+					{
+						"defindex": 189,
+						"value": 1093664768,
+						"float_value": 11.000000
+					},
+					{
+						"defindex": 214,
+						"value": 162,
+						"float_value": 0.000000
+					}
+				]
+				
+			},
+			{
+				"id": 883511732,
+				"original_id": 883511732,
+				"defindex": 261,
+				"level": 10,
+				"quality": 6,
+				"inventory": 2147483878,
+				"quantity": 1,
+				"origin": 5,
+				"flag_cannot_trade": true,
+				"flag_cannot_craft": true
+			},
+			{
+				"id": 883511733,
+				"original_id": 883511733,
+				"defindex": 237,
+				"level": 1,
+				"quality": 6,
+				"inventory": 2147483805,
+				"quantity": 1,
+				"origin": 2,
+				"flag_cannot_craft": true
+			},
+			{
+				"id": 883511734,
+				"original_id": 883511734,
+				"defindex": 265,
+				"level": 1,
+				"quality": 6,
+				"inventory": 2147483821,
+				"quantity": 1,
+				"origin": 2,
+				"flag_cannot_craft": true
+			},
+			{
+				"id": 883512592,
+				"original_id": 353990342,
+				"defindex": 486,
+				"level": 10,
+				"quality": 6,
+				"inventory": 2147483893,
+				"quantity": 1,
+				"origin": 13,
+				"equipped": [
+					{
+						"class": 3,
+						"slot": 8
+					},
+					{
+						"class": 4,
+						"slot": 8
+					},
+					{
+						"class": 0,
+						"slot": 8
+					},
+					{
+						"class": 2,
+						"slot": 8
+					},
+					{
+						"class": 1,
+						"slot": 8
+					},
+					{
+						"class": 8,
+						"slot": 8
+					},
+					{
+						"class": 5,
+						"slot": 10
+					},
+					{
+						"class": 6,
+						"slot": 8
+					},
+					{
+						"class": 7,
+						"slot": 8
+					}
+				]
+				,
+				"flag_cannot_trade": true,
+				"attributes": [
+					{
+						"defindex": 142,
+						"value": 1262709805,
+						"float_value": 12807213.000000
+					},
+					{
+						"defindex": 261,
+						"value": 1261994037,
+						"float_value": 12091445.000000
+					}
+				]
+				
+			},
+			{
+				"id": 886151364,
+				"original_id": 886151364,
+				"defindex": 5045,
+				"level": 10,
+				"quality": 6,
+				"inventory": 2147483962,
+				"quantity": 1,
+				"origin": 0,
+				"attributes": [
+					{
+						"defindex": 187,
+						"value": 1110704128,
+						"float_value": 45.000000
+					}
+				]
+				
+			},
+			{
+				"id": 886189294,
+				"original_id": 886189294,
+				"defindex": 56,
+				"level": 10,
+				"quality": 6,
+				"inventory": 2147484040,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 886303523,
+				"original_id": 886303523,
+				"defindex": 425,
+				"level": 10,
+				"quality": 6,
+				"inventory": 2147483775,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 886399171,
+				"original_id": 886399171,
+				"defindex": 5022,
+				"level": 10,
+				"quality": 6,
+				"inventory": 2147483957,
+				"quantity": 1,
+				"origin": 0,
+				"attributes": [
+					{
+						"defindex": 187,
+						"value": 1110179840,
+						"float_value": 43.000000
+					}
+				]
+				
+			},
+			{
+				"id": 886405460,
+				"original_id": 886405460,
+				"defindex": 595,
+				"level": 30,
+				"quality": 6,
+				"inventory": 2147483729,
+				"quantity": 1,
+				"origin": 4,
+				"attributes": [
+					{
+						"defindex": 228,
+						"value": 35537041,
+						"float_value": 0.000000,
+						"account_info": {
+							"steamid": 76561197995802769,
+							"personaname": "forivall believes in SCIENCE!DL"
+						}
+					},
+					{
+						"defindex": 229,
+						"value": 157589,
+						"float_value": 0.000000
+					}
+				]
+				
+			},
+			{
+				"id": 886414341,
+				"original_id": 886414341,
+				"defindex": 5002,
+				"level": 3,
+				"quality": 6,
+				"inventory": 2147483652,
+				"quantity": 1,
+				"origin": 4
+			},
+			{
+				"id": 887489475,
+				"original_id": 887489475,
+				"defindex": 355,
+				"level": 5,
+				"quality": 6,
+				"inventory": 2147483988,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 887541326,
+				"original_id": 887541326,
+				"defindex": 513,
+				"level": 5,
+				"quality": 6,
+				"inventory": 2147483800,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 888003112,
+				"original_id": 812276155,
+				"defindex": 308,
+				"level": 10,
+				"quality": 6,
+				"inventory": 2147483831,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 895567333,
+				"original_id": 895567333,
+				"defindex": 767,
+				"level": 1,
+				"quality": 1,
+				"inventory": 2147483694,
+				"quantity": 1,
+				"origin": 13,
+				"flag_cannot_trade": true
+			},
+			{
+				"id": 895567335,
+				"original_id": 895567335,
+				"defindex": 769,
+				"level": 1,
+				"quality": 1,
+				"inventory": 2147483891,
+				"quantity": 1,
+				"origin": 13,
+				"equipped": [
+					{
+						"class": 5,
+						"slot": 8
+					}
+				]
+				,
+				"flag_cannot_trade": true
+			},
+			{
+				"id": 897723899,
+				"original_id": 897723899,
+				"defindex": 35,
+				"level": 8,
+				"quality": 6,
+				"inventory": 2147484038,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 902558165,
+				"original_id": 902558165,
+				"defindex": 5022,
+				"level": 10,
+				"quality": 6,
+				"inventory": 2147483955,
+				"quantity": 1,
+				"origin": 0,
+				"attributes": [
+					{
+						"defindex": 187,
+						"value": 1110179840,
+						"float_value": 43.000000
+					}
+				]
+				
+			},
+			{
+				"id": 902578403,
+				"original_id": 902578403,
+				"defindex": 44,
+				"level": 15,
+				"quality": 6,
+				"inventory": 2147483984,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 902728571,
+				"original_id": 902728571,
+				"defindex": 140,
+				"level": 5,
+				"quality": 6,
+				"inventory": 2147484033,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 902822304,
+				"original_id": 902822304,
+				"defindex": 482,
+				"level": 5,
+				"quality": 6,
+				"inventory": 2147483823,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 903024482,
+				"original_id": 903024482,
+				"defindex": 226,
+				"level": 10,
+				"quality": 6,
+				"inventory": 2147483812,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 903108372,
+				"original_id": 903108372,
+				"defindex": 133,
+				"level": 10,
+				"quality": 6,
+				"inventory": 2147484000,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 903146627,
+				"original_id": 903146627,
+				"defindex": 5041,
+				"level": 10,
+				"quality": 6,
+				"inventory": 2147483960,
+				"quantity": 1,
+				"origin": 0,
+				"attributes": [
+					{
+						"defindex": 187,
+						"value": 1110441984,
+						"float_value": 44.000000
+					}
+				]
+				
+			},
+			{
+				"id": 905943849,
+				"original_id": 658745852,
+				"defindex": 470,
+				"level": 10,
+				"quality": 6,
+				"inventory": 2147483892,
+				"quantity": 1,
+				"origin": 10,
+				"equipped": [
+					{
+						"class": 2,
+						"slot": 7
+					},
+					{
+						"class": 1,
+						"slot": 7
+					},
+					{
+						"class": 5,
+						"slot": 7
+					},
+					{
+						"class": 3,
+						"slot": 7
+					},
+					{
+						"class": 4,
+						"slot": 7
+					}
+				]
+				,
+				"flag_cannot_trade": true,
+				"attributes": [
+					{
+						"defindex": 142,
+						"value": 1260952204,
+						"float_value": 11049612.000000
+					},
+					{
+						"defindex": 261,
+						"value": 1258528675,
+						"float_value": 8626083.000000
+					}
+				]
+				
+			},
+			{
+				"id": 908057716,
+				"original_id": 895567334,
+				"defindex": 768,
+				"level": 1,
+				"quality": 1,
+				"inventory": 2147483890,
+				"quantity": 1,
+				"origin": 13,
+				"equipped": [
+					{
+						"class": 4,
+						"slot": 10
+					},
+					{
+						"class": 3,
+						"slot": 10
+					},
+					{
+						"class": 7,
+						"slot": 10
+					}
+				]
+				,
+				"flag_cannot_trade": true,
+				"attributes": [
+					{
+						"defindex": 142,
+						"value": 1258323968,
+						"float_value": 8421376.000000
+					},
+					{
+						"defindex": 261,
+						"value": 1258323968,
+						"float_value": 8421376.000000
+					}
+				]
+				
+			},
+			{
+				"id": 908096019,
+				"original_id": 343773976,
+				"defindex": 199,
+				"level": 1,
+				"quality": 11,
+				"inventory": 2147483839,
+				"quantity": 1,
+				"origin": 8,
+				"custom_name": "S-Mart's Top of the Line",
+				"equipped": [
+					{
+						"class": 7,
+						"slot": 1
+					},
+					{
+						"class": 9,
+						"slot": 0
+					},
+					{
+						"class": 3,
+						"slot": 1
+					}
+				]
+				,
+				"attributes": [
+					{
+						"defindex": 189,
+						"value": 1093664768,
+						"float_value": 11.000000
+					},
+					{
+						"defindex": 214,
+						"value": 1864,
+						"float_value": 0.000000
+					}
+				]
+				
+			},
+			{
+				"id": 913985864,
+				"original_id": 913985864,
+				"defindex": 775,
+				"level": 10,
+				"quality": 3,
+				"inventory": 2147483817,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 918057434,
+				"original_id": 918057434,
+				"defindex": 743,
+				"level": 83,
+				"quality": 3,
+				"inventory": 2147483696,
+				"quantity": 1,
+				"origin": 0,
+				"attributes": [
+					{
+						"defindex": 420,
+						"value": 2012,
+						"float_value": 0.000000
+					}
+				]
+				
+			},
+			{
+				"id": 918416889,
+				"original_id": 918416889,
+				"defindex": 155,
+				"level": 20,
+				"quality": 6,
+				"inventory": 2147484032,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 918537422,
+				"original_id": 918537422,
+				"defindex": 448,
+				"level": 10,
+				"quality": 6,
+				"inventory": 2147483986,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 918711453,
+				"original_id": 918711453,
+				"defindex": 215,
+				"level": 10,
+				"quality": 6,
+				"inventory": 2147484003,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 918825546,
+				"original_id": 918825546,
+				"defindex": 744,
+				"level": 48,
+				"quality": 6,
+				"inventory": 2147483697,
+				"quantity": 1,
+				"origin": 1,
+				"flag_cannot_trade": true
+			},
+			{
+				"id": 921773976,
+				"original_id": 921773976,
+				"defindex": 351,
+				"level": 10,
+				"quality": 6,
+				"inventory": 2147484004,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 922027732,
+				"original_id": 922027732,
+				"defindex": 35,
+				"level": 8,
+				"quality": 6,
+				"inventory": 2147484036,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 923204746,
+				"original_id": 923204746,
+				"defindex": 5022,
+				"level": 10,
+				"quality": 6,
+				"inventory": 2147483661,
+				"quantity": 1,
+				"origin": 0,
+				"attributes": [
+					{
+						"defindex": 187,
+						"value": 1110179840,
+						"float_value": 43.000000
+					}
+				]
+				
+			},
+			{
+				"id": 923331652,
+				"original_id": 923331652,
+				"defindex": 239,
+				"level": 10,
+				"quality": 6,
+				"inventory": 2147484026,
+				"quantity": 1,
+				"origin": 0,
+				"equipped": [
+					{
+						"class": 6,
+						"slot": 2
+					}
+				]
+				
+			},
+			{
+				"id": 924015438,
+				"original_id": 924015438,
+				"defindex": 163,
+				"level": 5,
+				"quality": 6,
+				"inventory": 2147483987,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 924131316,
+				"original_id": 924131316,
+				"defindex": 5078,
+				"level": 10,
+				"quality": 6,
+				"inventory": 2147483659,
+				"quantity": 1,
+				"origin": 6,
+				"attributes": [
+					{
+						"defindex": 187,
+						"value": 1110966272,
+						"float_value": 46.000000
+					}
+				]
+				
+			},
+			{
+				"id": 924195906,
+				"original_id": 924195906,
+				"defindex": 357,
+				"level": 5,
+				"quality": 6,
+				"inventory": 2147484009,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 924375042,
+				"original_id": 924375042,
+				"defindex": 633,
+				"level": 10,
+				"quality": 6,
+				"inventory": 2147483863,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 924594180,
+				"original_id": 924594180,
+				"defindex": 5078,
+				"level": 10,
+				"quality": 6,
+				"inventory": 2147483660,
+				"quantity": 1,
+				"origin": 6,
+				"attributes": [
+					{
+						"defindex": 187,
+						"value": 1110966272,
+						"float_value": 46.000000
+					}
+				]
+				
+			},
+			{
+				"id": 927756534,
+				"original_id": 927756534,
+				"defindex": 785,
+				"level": 10,
+				"quality": 1,
+				"inventory": 2147483698,
+				"quantity": 1,
+				"origin": 15,
+				"style": 0,
+				"flag_cannot_trade": true
+			},
+			{
+				"id": 943408033,
+				"original_id": 929495553,
+				"defindex": 305,
+				"level": 15,
+				"quality": 11,
+				"inventory": 2147483651,
+				"quantity": 1,
+				"origin": 8,
+				"equipped": [
+					{
+						"class": 5,
+						"slot": 0
+					}
+				]
+				,
+				"attributes": [
+					{
+						"defindex": 189,
+						"value": 1093664768,
+						"float_value": 11.000000
+					},
+					{
+						"defindex": 214,
+						"value": 24,
+						"float_value": 0.000000
+					}
+				]
+				
+			},
+			{
+				"id": 946198126,
+				"original_id": 946198126,
+				"defindex": 731,
+				"level": 35,
+				"quality": 6,
+				"inventory": 2147483650,
+				"quantity": 1,
+				"origin": 8
+			},
+			{
+				"id": 946241382,
+				"original_id": 889138344,
+				"defindex": 5002,
+				"level": 3,
+				"quality": 6,
+				"inventory": 2147483654,
+				"quantity": 1,
+				"origin": 4
+			},
+			{
+				"id": 946241384,
+				"original_id": 921797348,
+				"defindex": 784,
+				"level": 98,
+				"quality": 6,
+				"inventory": 2147483649,
+				"quantity": 1,
+				"origin": 6,
+				"equipped": [
+					{
+						"class": 9,
+						"slot": 8
+					}
+				]
+				
+			},
+			{
+				"id": 946241387,
+				"original_id": 940672080,
+				"defindex": 5001,
+				"level": 2,
+				"quality": 6,
+				"inventory": 2147483655,
+				"quantity": 1,
+				"origin": 4
+			},
+			{
+				"id": 946241392,
+				"original_id": 940672318,
+				"defindex": 5000,
+				"level": 1,
+				"quality": 6,
+				"inventory": 2147483657,
+				"quantity": 1,
+				"origin": 4
+			},
+			{
+				"id": 946241402,
+				"original_id": 932633766,
+				"defindex": 5000,
+				"level": 1,
+				"quality": 6,
+				"inventory": 2147483658,
+				"quantity": 1,
+				"origin": 4
+			},
+			{
+				"id": 946244390,
+				"original_id": 946244390,
+				"defindex": 5001,
+				"level": 2,
+				"quality": 6,
+				"inventory": 2147483656,
+				"quantity": 1,
+				"origin": 4
+			},
+			{
+				"id": 948496834,
+				"original_id": 948496834,
+				"defindex": 348,
+				"level": 10,
+				"quality": 6,
+				"inventory": 2147484006,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 948757570,
+				"original_id": 948757570,
+				"defindex": 401,
+				"level": 5,
+				"quality": 6,
+				"inventory": 2147484042,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 948769157,
+				"original_id": 948769157,
+				"defindex": 5045,
+				"level": 10,
+				"quality": 6,
+				"inventory": 2147483662,
+				"quantity": 1,
+				"origin": 0,
+				"attributes": [
+					{
+						"defindex": 187,
+						"value": 1110704128,
+						"float_value": 45.000000
+					}
+				]
+				
+			},
+			{
+				"id": 948938520,
+				"original_id": 948938520,
+				"defindex": 415,
+				"level": 10,
+				"quality": 6,
+				"inventory": 2147484007,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 949216960,
+				"original_id": 949216960,
+				"defindex": 460,
+				"level": 5,
+				"quality": 6,
+				"inventory": 2147483665,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 949425503,
+				"original_id": 949425503,
+				"defindex": 609,
+				"level": 10,
+				"quality": 6,
+				"inventory": 2147483667,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 949554139,
+				"original_id": 949554139,
+				"defindex": 305,
+				"level": 15,
+				"quality": 6,
+				"inventory": 2147483668,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 949554141,
+				"original_id": 949554141,
+				"defindex": 5600,
+				"level": 1,
+				"quality": 6,
+				"inventory": 2147483670,
+				"quantity": 1,
+				"origin": 0
+			},
+			{
+				"id": 949558340,
+				"original_id": 949558340,
+				"defindex": 5078,
+				"level": 10,
+				"quality": 6,
+				"inventory": 2147483663,
+				"quantity": 1,
+				"origin": 6,
+				"attributes": [
+					{
+						"defindex": 187,
+						"value": 1110966272,
+						"float_value": 46.000000
+					}
+				]
+				
+			},
+			{
+				"id": 949558341,
+				"original_id": 949558341,
+				"defindex": 740,
+				"level": 10,
+				"quality": 6,
+				"inventory": 2147483664,
+				"quantity": 1,
+				"origin": 6
+			}
+		]
+		
+	}
+}
