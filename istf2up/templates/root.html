@@ -17,7 +17,7 @@ text-align:center;
 </head>
 <body>
 <h1 id="mainstatus">{{ isup|yesno|title }}! 
-{% if isup %}The TF2 root servers are all working {% else %} Something is wrong with {% endif %} working</h1>
+{% if isup %}The TF2 root servers are all working{% else %} Something is wrong with TODO:len([s for s in serverstatuses if not s.up]) of the servers :({% endif %}.</h1>
 <div id="statusdisplaywrapper">
 <table id="statusdisplay">
 {% for s in serverstatuses %}
