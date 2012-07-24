@@ -1,6 +1,7 @@
+#Stringfellow Steam Web Apps
 The name's based on [John Stringfellow](http://en.wikipedia.org/wiki/John_Stringfellow)
 
-Setup instructions
+###Setup instructions
 
 Run:
 
