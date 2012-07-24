@@ -16,10 +16,11 @@ text-align:center;
 </style>
 </head>
 <body>
-<h1 id="mainstatus">{{ isup|yesno|title }}! 
+<h1 class="mainstatus">{{ isup|yesno|title }}! 
 {% if isup %}The TF2 root servers are all working{% else %} Something is wrong with TODO:len([s for s in serverstatuses if not s.up]) of the servers :({% endif %}.</h1>
-<div id="statusdisplaywrapper">
-<table id="statusdisplay">
+<p class="disclaimer">(not really, this is just a test)</p>
+<div class="statusdisplaywrapper">
+<table class="statusdisplay">
 {% for s in serverstatuses %}
 <tr>
   <td><span class="status,{{ s.up|updown }}">{{ s.up|updown }}</span></td>

@@ -1,0 +1,3 @@
+Look for a form validation framework solution for Flask (with anti-CSRF protection)
+    look at werkzeug.formparser, get the Werkzeug docs
+

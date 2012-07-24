@@ -1,5 +1,5 @@
 application: istf2up
-version: r3-dev
+version: dev-0
 runtime: python27
 api_version: 1
 threadsafe: true
@@ -23,18 +23,18 @@ inbound_services:
 
 handlers:
 - url: /favicon.ico
-  static_files: application/static/img/favicon.ico
-  upload: application/static/img/favicon.ico
+  static_files: istf2up/static/img/favicon.ico
+  upload: istf2up/static/img/favicon.ico
 
 #- url: /robots.txt
-#  static_files: application/static/robots.txt
-#  upload: application/static/robots.txt
+#  static_files: istf2up/static/robots.txt
+#  upload: istf2up/static/robots.txt
 
 - url: /_gae_mini_profiler/static
   static_dir: packages/flaskext/gae_mini_profiler/static
 
 - url: /static
-  static_dir: application/static
+  static_dir: istf2up/static
 
 - url: .*
   script: release.app

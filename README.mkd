@@ -1,0 +1,19 @@
+The name's based on [John Stringfellow](http://en.wikipedia.org/wiki/John_Stringfellow)
+
+Setup instructions
+
+Run:
+
+  # in bash
+  virtualenv --distribute venv
+  #virtualenv2 on archlinux
+  . venv/bin/activate
+  #. is an alias for `source`
+  
+Install:
+
+  Flask==0.9
+  Jinja2==2.6
+  Werkzeug==0.8.3
+
+
