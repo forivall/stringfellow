@@ -6,14 +6,7 @@
 <title>{{ isup|yesno|title }}! The TF2 root servers are
 {% if not isup %}not {% endif %} working | istf2up.com</title>
 
-<style type="text/css">
-#mainstatus {
-text-align:center;
-}
-#statusdisplaywrapper {
-text-align:center;
-}
-</style>
+<link rel=stylesheet type=text/css href="static/style.css">
 </head>
 <body>
 <h1 class="mainstatus">{{ isup|yesno|title }}! 
